@@ -126,7 +126,7 @@ React — это библиотека для построения пользов
 
 📧 Электронная почта - freefaer0tt@gmail.com
 
-💬 Telegram - @Msmink9191
+💬 Telegram - [@Msmink9191](https://t.me/Msmink9191)
 
 TGK - t.me/frontend_back
 
