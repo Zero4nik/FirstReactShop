@@ -41,24 +41,6 @@ React Hooks — управление состоянием
 Vite — сборка проекта
 JavaScript (ES6+) — основной язык
 
- Структура проекта
-src/
-├── components/          # Переиспользуемые компоненты
-│   ├── ProductCard.jsx  # Карточка товара
-│   ├── Header.jsx       # Шапка сайта
-│   ├── Footer.jsx       # Подвал сайта
-│   ├── Navigation.jsx   # Навигационное меню
-│   └── ThemeToggle.jsx  # Переключатель темы
-├── pages/               # Страницы приложения
-│   ├── HomePage.jsx     # Главная страница
-│   ├── ProductsPage.jsx # Каталог товаров
-│   ├── ThemeDemoPage.jsx # Демо темы
-│   └── ContactPage.jsx  # Контакты и форма
-├── context/             # Глобальное состояние
-│   └── ThemeContext.jsx # Управление темой
-├── App.jsx              # Корневой компонент
-└── main.jsx             # Точка входа
-
 
 🎨 Дизайн и стили
 Минималистичный подход
